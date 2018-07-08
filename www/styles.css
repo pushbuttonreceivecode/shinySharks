@@ -1,0 +1,46 @@
+/*additional style info
+for shiny dashboards*/
+a {
+  color: #ff9900;
+}
+
+a:hover {
+  color: #cc6600;
+}
+
+.dash-card {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #999;
+  border: thin solid #666;
+  border-radius: 5px;
+  overflow: visible;
+}
+
+.char-bg {
+  background-color: #c0c0c0;
+  border: thin solid #666;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#year {
+  color: #fff;
+}
+
+/*datatable styles*/
+table.dataTable tbody tr:nth-child(even) {
+  color: #000;
+}
+
+table.dataTable tbody tr:nth-child(even):hover {
+  color: #900000;
+}
+
+table.dataTable tbody tr:nth-child(odd) {
+  color: #000;
+}
+
+table.dataTable tbody tr:nth-child(odd):hover {
+  color: #900000;
+}
