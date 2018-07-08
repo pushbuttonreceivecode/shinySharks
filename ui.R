@@ -143,6 +143,6 @@ ui = function(){
       )
     ),
     warn("Data cleaned, anonymized, recoded, and extended to suit my own purposes."),
-    infolink("You can find my cleaned data set on", "GitHub", "https://github.com/pushbuttonreceivecode/CSV")
+    infolink("You can find my cleaned data set on", "GitHub", "https://github.com/pushbuttonreceivecode/shinySharks")
   )
 }
