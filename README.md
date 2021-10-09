@@ -1,4 +1,5 @@
 # shinySharks
 R Shiny dashboard created with data from the shark attack file (http://www.sharkattackfile.net/incidentlog.htm)
 
-Live dashboard: https://markrichards.ninja/shiny/Global_Shark_Attack_File/
+## follow the fork here at https://github.com/mricha41/shinySharks for updates - this repo will not be updated.
+Live dashboard: https://shinysharks.herokuapp.com/
